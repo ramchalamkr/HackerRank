@@ -1,0 +1,5 @@
+/media/ramchalamkr/DriveG/McGill/HackerRank/BitManipulation/LonelyInteger/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/ramchalamkr/DriveG/McGill/HackerRank/BitManipulation/LonelyInteger/bin/Debug/LonelyInteger.pdb
+/media/ramchalamkr/DriveG/McGill/HackerRank/BitManipulation/LonelyInteger/bin/Debug/LonelyInteger.exe
+/media/ramchalamkr/DriveG/McGill/HackerRank/BitManipulation/LonelyInteger/obj/x86/Debug/LonelyInteger.exe
+/media/ramchalamkr/DriveG/McGill/HackerRank/BitManipulation/LonelyInteger/obj/x86/Debug/LonelyInteger.pdb
