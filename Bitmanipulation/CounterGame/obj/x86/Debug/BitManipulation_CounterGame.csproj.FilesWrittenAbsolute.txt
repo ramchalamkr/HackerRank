@@ -1,0 +1,5 @@
+/media/ramchalamkr/DriveG/McGill/HackerRank/Bitmanipulation/BitManipulation_CounterGame/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/ramchalamkr/DriveG/McGill/HackerRank/Bitmanipulation/BitManipulation_CounterGame/bin/Debug/BitManipulation_CounterGame.pdb
+/media/ramchalamkr/DriveG/McGill/HackerRank/Bitmanipulation/BitManipulation_CounterGame/bin/Debug/BitManipulation_CounterGame.exe
+/media/ramchalamkr/DriveG/McGill/HackerRank/Bitmanipulation/BitManipulation_CounterGame/obj/x86/Debug/BitManipulation_CounterGame.exe
+/media/ramchalamkr/DriveG/McGill/HackerRank/Bitmanipulation/BitManipulation_CounterGame/obj/x86/Debug/BitManipulation_CounterGame.pdb
